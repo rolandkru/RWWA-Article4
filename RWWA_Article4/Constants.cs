@@ -16,12 +16,12 @@ namespace RWWA_Article4
         /// <summary>
         /// The storage account name.
         /// </summary>
-        public const string StorageAccountName = "rwwa4";
+        public const string StorageAccountName = "[Enter Storage Account Name]";
 
         /// <summary>
         /// The storage account key.
         /// </summary>
-        public const string StorageAccountKey = "YueeTPAVjTroOxBFf90E6jMASU9GRB50ee4mIQhPM09qMo3qR20h1C54AeL+yS2kTbpOYeIIJt0Np5fTz4D0Hg==";
+        public const string StorageAccountKey = "[Enter Storage Account Key]";
 
         /// <summary>
         /// The scheduler queue.
